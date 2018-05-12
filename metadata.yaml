@@ -1,10 +1,16 @@
 _repo: The-Mentor-American-Mural-Painters-vol-2-Num-15-Serial-No-67-September-15-1914_50673
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50673-h/images/cover.jpg
 creator:
   author:
     agent_name: Hoeber, Arthur
     gutenberg_agent_id: '46032'
     url: http://www.gutenberg.org/2009/agents/46032
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50673#The-Mentor-American-Mural-Painters-vol-2-Num-15-Serial-No-67-September-15-1914
 gutenberg_issued: '2015-12-12'
 gutenberg_type: Text
 identifiers:
