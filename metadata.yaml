@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: American Mural Painters, vol. 2, Num 15, Serial No. 67, September
   15, 1914'
 url: http://www.gutenberg.org/ebooks/50673
